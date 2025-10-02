@@ -7,3 +7,7 @@ baseurl: ""
 
 color_scheme: dark
 permalink: pretty
+
+
+aux_links:
+  Github Files: https://github.com/ikeayoghurt/ikeayoghurt.github.io

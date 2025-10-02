@@ -1,7 +1,6 @@
 ---
 title: Active Directory
 nav_order: 2
-sidebar: auto
 ---
 
 ## Quick summary

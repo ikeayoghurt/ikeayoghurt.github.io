@@ -1,5 +1,5 @@
 ---
-title: AD — Initial Enumeration
+title: Initial Enumeration
 sidebar: auto
 parent: ad
 ---

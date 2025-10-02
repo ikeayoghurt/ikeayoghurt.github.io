@@ -3,6 +3,7 @@ description: Page to collect my knowledge
 remote_theme: just-the-docs/just-the-docs
 
 url: https://ikeayoghurt.github.io
+baseurl: ""
 
 color_scheme: dark
 permalink: pretty

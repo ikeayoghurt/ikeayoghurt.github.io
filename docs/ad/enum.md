@@ -1,27 +1,18 @@
 ---
-title: AD Recon — Initial Enumeration
+title: AD — Initial Enumeration
 sidebar: auto
-permalink: /ad/recon/initial-enumeration/
+permalink: /ad/initial-enumeration/
 ---
 
 # Initial Enumeration — Active Directory (AD)
-
-**Goal:** quick first-pass commands to discover hosts, domain controllers, DNS records and gather targets for deeper AD enumeration. Keep this as your first-run checklist when you acquire network access or a foothold.
-
----
-
-# Key Data Points
-| Data Point | Description |
-|---|---|
-| AD Users | We are trying to enumerate valid user accounts we can target for password spraying. |
-| AD Joined Computers | Key Computers include Domain Controllers, file servers, SQL servers, web servers, Exchange mail servers, database servers, etc. |
-| Key Services | Kerberos, NetBIOS, LDAP, DNS |
-| Vulnerable Hosts and Services | Anything that can be a quick win. ( a.k.a an easy host to exploit and gain a foothold) |
+Enumerating an AD environment can be overwhelming due to the large surface area, the key will be to get a lay of the land and honing in potential avenues for a foothold.
 
 
 # Enumerating without Credentials
+Without creds, you may be pretty limited! Let us look at useful tips to getting you that first set of creds.
 
 ## Enumeration services on host
+
 ### Nmap
 ```bash
 nmap -sC -sV <ip> -oA <filename>

@@ -5,21 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 url: https://ikeayoghurt.github.io
 
 color_scheme: dark
-
-# Make URLs like /page/ instead of /page.html
 permalink: pretty
-
-# Add docs collection
-collections:
-  docs:
-    output: true
-    permalink: /:path/
-
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_exclude: false
 
 aux_links:
   Template Repository: https://github.com/ikeayoghurt/ikeayoghurt.github.io

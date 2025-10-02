@@ -7,5 +7,12 @@ url: https://ikeayoghurt.github.io
 color_scheme: dark
 permalink: pretty
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 aux_links:
   Template Repository: https://github.com/ikeayoghurt/ikeayoghurt.github.io

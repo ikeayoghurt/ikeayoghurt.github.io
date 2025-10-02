@@ -6,5 +6,7 @@ url: https://github.com/ikeayoghurt/ikeayoghurt.github.io
 
 color_scheme: dark
 
+permalink: pretty
+
 aux_links:
   Template Repository: https://github.com/ikeayoghurt/ikeayoghurt.github.io

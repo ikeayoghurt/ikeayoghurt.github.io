@@ -1,7 +1,7 @@
 ---
 title: AD — Initial Enumeration
 sidebar: auto
-permalink: /ad/initial-enumeration/
+parent: ad
 ---
 
 # Initial Enumeration — Active Directory (AD)

@@ -2,7 +2,6 @@
 title: Active Directory
 nav_order: 2
 sidebar: auto
-permalink: /ad/
 ---
 
 ## Quick summary

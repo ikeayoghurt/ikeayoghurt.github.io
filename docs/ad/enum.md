@@ -1,7 +1,7 @@
 ---
 title: Initial Enumeration
 sidebar: auto
-parent: ad
+parent: Active Directory
 ---
 
 # Initial Enumeration — Active Directory (AD)

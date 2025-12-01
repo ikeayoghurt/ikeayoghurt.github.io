@@ -1,5 +1,5 @@
 ---
-title: Passwords
+title: Hashes & Password Attacks
 nav_order: 3
 ---
 
